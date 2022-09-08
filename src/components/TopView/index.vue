@@ -21,7 +21,7 @@
 import TotalSales from "../TotalSales/index.vue";
 import TotalOrder from "../TotalOrder/index.vue";
 import TodayUser from "../TodayUser/index.vue";
-import TotalUsers from '../TotalUsers/index.vue'
+import TotalUsers from "../TotalUsers/index.vue";
 
 export default {
   components: {
